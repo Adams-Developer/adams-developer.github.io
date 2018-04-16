@@ -1,2 +1,3 @@
 name: Adams Developer
 markdown: kramdown
+permalink: /work/:year/:month/:day/:title
