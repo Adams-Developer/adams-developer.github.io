@@ -1,3 +1,3 @@
 name: Adams Developer
 markdown: kramdown
-permalink: /work/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
